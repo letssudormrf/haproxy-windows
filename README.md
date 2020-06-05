@@ -1,14 +1,12 @@
 <div align="center">
-    <h1>haproxy-windows v2.1.5</h1>
+    <h1>HAProxy For Windows [v2.1.5]</h1>
     <img src="./HAProxyCE.png" width="250" />
     <p align="center">
-        HAProxy Community Edition For Windows. 
+        The Reliable, High Performance TCP/HTTP Load Balancer
     </p>    
 </div>
 
 <br>
-
-**HAProxy** The Reliable, High Performance TCP/HTTP Load Balancer
 
 HAProxy is a free, very fast and reliable solution offering [high availability](http://en.wikipedia.org/wiki/High_availability),
  [load balancing](http://en.wikipedia.org/wiki/Load_balancer), and proxying for TCP and HTTP-based applications. 
@@ -16,6 +14,11 @@ HAProxy is a free, very fast and reliable solution offering [high availability](
  It is particularly suited for very high traffic web sites and powers quite a number of the world's most visited ones. 
  Over the years it has become the de-facto standard opensource load balancer, is now shipped with most mainstream 
  Linux distributions, and is often deployed by default in cloud platforms.
+ 
+#### Features
+
+- Open SSL
+- gzip Compression
 
 #### QuickStart(use quiet mode)
 
