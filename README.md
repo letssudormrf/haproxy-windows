@@ -8,6 +8,10 @@
 
 <br>
 
+**TLDR;** Download last release <https://github.com/nidorx/haproxy-windows/releases/tag/v2.1.5>
+
+<br>
+
 HAProxy is a free, very fast and reliable solution offering [high availability](http://en.wikipedia.org/wiki/High_availability),
  [load balancing](http://en.wikipedia.org/wiki/Load_balancer), and proxying for TCP and HTTP-based applications. 
  
